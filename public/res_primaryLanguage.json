@@ -44,6 +44,29 @@
     },
 
     {
+      "title": "Deployment Management System",
+      "startDate": "2024",
+      "description": "DMS is one of the major tools for the Plexxis software. Plexxis software utilizes a central tool called DMS (Data Management System) to manage and store all client and user information. This centralized system ensures that all client servers can access up-to-date information as needed. The approach we use here is 0auth Code 2.0.",
+      "images": ["images/portfolio/DMS/1.webp", "images/portfolio/DMS/2.webp"],
+      "url": "https://dms.plexxislabs.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React JS"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "85"
+        },
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "Nest JS"
+        }
+      ]
+    },
+
+    {
       "title": "LOAM",
       "startDate": "2024",
       "description": "I took on a central role in crafting LOAM, an innovative incentive database platform distinguished by its ability to streamline the aggregation and analysis of incentive data through advanced data scraping techniques. Developed using React JS for the front-end and .NET for the back-end, LOAM stands out for its robustness and efficiency in handling complex data operations. The platform is designed to enable users to seamlessly access a vast database of incentives, making use of sophisticated search and filter mechanisms to pinpoint precise information. The integration of automated data scraping ensures that the database is continuously updated with the latest information, thereby maintaining its relevance and utility.",
